@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "简历"
-description: "滴滴滴滴滴滴" 
+title: "RESUME"
+description: "liuqing.suzy@gmail.com" 
 header-img: "img/green.jpg"
 ---
 
