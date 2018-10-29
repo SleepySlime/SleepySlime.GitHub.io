@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
-header-img: "img/tokyo.jpg"
+title: "Journals"
+description: "手账生活"
+header-img: "img/tokyo.JPG"
 ---
 
 
