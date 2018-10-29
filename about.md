@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于"
+title: "简历"
 description: "滴滴滴滴滴滴" 
 header-img: "img/green.jpg"
 ---
